@@ -6,7 +6,7 @@ body{
   {
       text-decoration: none;
   }
-  .menu li{
+  .menu li a{
       color:#51279B
 	  
   }
