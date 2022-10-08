@@ -1,0 +1,114 @@
+body{ 
+    background-image:url("florence.jpg"); 
+    background-repeat: no-repeat;   
+  }
+  .menu li:hover, a:visited, a:link, a:active
+  {
+      text-decoration: none;
+  }
+  .menu li{
+      color:#51279B
+	  
+  }
+ .menu li a:hover {
+    color: #8662C7;    
+  }
+
+ .menu{
+    display: block;
+    margin-top: -40px;
+    
+  }
+  .menu li {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 30px;
+    padding-left: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+ 
+  #mainHeader{
+      text-align: centre;
+      font-size: 48px;
+      color: white;
+      font-family:helvetica, sans-serif;
+      margin-left: 50px;
+  }
+  
+  #upliftingMssg{
+    font-size: 24px;
+    color: white;
+    text-align: centre;
+    font-family: helvetica, sans-serif;
+    margin-left: 50px;
+    
+  }
+  #mainButton{
+    display: block;
+    background-color:#51279B;
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: lightcyan;
+    padding:15px;
+    margin-left: 50px
+    
+  }
+  
+  .cards{
+    padding-left: 290px;
+  }
+  .cards li{
+    display: inline-block;
+    margin-top: 350px;
+    
+  }
+  .cards li .location{
+  
+   font-size: 14px;
+  }
+  .cards li .description{
+   
+   font-size: 12px;
+  }
+  .cards li span{
+    margin: 5px;
+    font-size: 10px;
+  }
+  
+  .cards a{
+    color: black;
+    text-decoration: none;
+  }
+
+  .cards a:hover{
+    color: black;
+    text-decoration: none;
+  }
+
+  .cards a:visted{
+    color: black;
+    text-decoration: none;
+  }
+  #mainButton:hover{
+    background-color:#8662C7;
+  }
+  
+  footer{
+    background-color:#8662C7;
+    width: 100%;
+    
+  }
+  
+  footer a:visited, a:active, a:hover{
+    color:white;
+    text-decoration:none; 
+  }
+  
+  footer a p{
+    font-size: 14px;
+    font-family:helvetica, sans-serif; 
+    color: white;
+  }
+  
